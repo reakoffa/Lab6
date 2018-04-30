@@ -1,6 +1,8 @@
 import java.util.Random;
 import java.util.Scanner;
 
+// Anthony Reakoff and Victoria Rush 4/30/18 Lab 6
+
 public class Lab6 {
 
 	public static void main(String[] args) {
